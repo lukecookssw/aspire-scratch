@@ -1,0 +1,12 @@
+/home/luke/code/aspire-scratch/Contoso.Infrastructure/obj/Debug/net10.0/Contoso.Infrastructure.csproj.AssemblyReference.cache
+/home/luke/code/aspire-scratch/Contoso.Infrastructure/obj/Debug/net10.0/Contoso.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/luke/code/aspire-scratch/Contoso.Infrastructure/obj/Debug/net10.0/Contoso.Infrastructure.AssemblyInfoInputs.cache
+/home/luke/code/aspire-scratch/Contoso.Infrastructure/obj/Debug/net10.0/Contoso.Infrastructure.AssemblyInfo.cs
+/home/luke/code/aspire-scratch/Contoso.Infrastructure/obj/Debug/net10.0/Contoso.Infrastructure.csproj.CoreCompileInputs.cache
+/home/luke/code/aspire-scratch/Contoso.Infrastructure/bin/Debug/net10.0/Contoso.Infrastructure.deps.json
+/home/luke/code/aspire-scratch/Contoso.Infrastructure/bin/Debug/net10.0/Contoso.Infrastructure.dll
+/home/luke/code/aspire-scratch/Contoso.Infrastructure/bin/Debug/net10.0/Contoso.Infrastructure.pdb
+/home/luke/code/aspire-scratch/Contoso.Infrastructure/obj/Debug/net10.0/Contoso.Infrastructure.dll
+/home/luke/code/aspire-scratch/Contoso.Infrastructure/obj/Debug/net10.0/refint/Contoso.Infrastructure.dll
+/home/luke/code/aspire-scratch/Contoso.Infrastructure/obj/Debug/net10.0/Contoso.Infrastructure.pdb
+/home/luke/code/aspire-scratch/Contoso.Infrastructure/obj/Debug/net10.0/ref/Contoso.Infrastructure.dll
